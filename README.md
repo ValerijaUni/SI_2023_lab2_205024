@@ -9,3 +9,6 @@ Valerija, Zlateva, 205024
 ![image](https://github.com/ValerijaUni/SI_2023_lab2_205024/assets/128475918/ecc2d6dd-5429-4cd1-b6cc-f2a72780afb5)
 ![image](https://github.com/ValerijaUni/SI_2023_lab2_205024/assets/128475918/03543628-1598-4fea-9f94-19ceef65458c)
 ![image](https://github.com/ValerijaUni/SI_2023_lab2_205024/assets/128475918/8ca8fda6-a02e-4b04-8334-f31bf41d2198)
+![image](https://github.com/ValerijaUni/SI_2023_lab2_205024/assets/128475918/8d7c55da-5dbb-47fc-8349-ecf9cc3768ef)
+![image](https://github.com/ValerijaUni/SI_2023_lab2_205024/assets/128475918/817b9831-d84d-4ab7-bfb3-244b7a3c5a29)
+![image](https://github.com/ValerijaUni/SI_2023_lab2_205024/assets/128475918/99f20290-6105-47bf-847b-64cfe9f10e14)
